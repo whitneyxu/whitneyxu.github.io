@@ -1,1 +1,1 @@
-# whitneyxu.github.io
+# This is Whitney Xu's website 
